@@ -111,3 +111,12 @@ Power Query
 
 Star Schema Data Modeling
 
+
+ <img width="1118" height="626" alt="Executive summary 1" src="https://github.com/user-attachments/assets/2c658c87-9146-4647-bf9e-c21a63b63cb0" />
+
+ <img width="1117" height="627" alt="product analysis2" src="https://github.com/user-attachments/assets/b9898f2f-79d6-4a23-b323-6502b6ba5628" />
+
+ <img width="1117" height="627" alt="customer insights 3" src="https://github.com/user-attachments/assets/c59c1c43-c3c0-4538-a69d-3905a5113eac" />
+
+
+
