@@ -1,4 +1,5 @@
 📊 Enterprise Sales Intelligence Dashboard (TPC-H)
+https://drive.google.com/drive/folders/1eMjCe1eN_JOLabQmIvr-8OdFyi7FprXf?usp=sharing
 
 Power BI + Snowflake | End-to-End Business Intelligence Project
 
